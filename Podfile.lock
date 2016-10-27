@@ -1,0 +1,29 @@
+PODS:
+  - ActionKit (1.2.0)
+  - RxCocoa (3.0.0):
+    - RxSwift (~> 3.0)
+  - RxSwift (3.0.0)
+
+DEPENDENCIES:
+  - ActionKit (from `https://github.com/ActionKit/ActionKit.git`, branch `swift3`)
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+
+EXTERNAL SOURCES:
+  ActionKit:
+    :branch: swift3
+    :git: https://github.com/ActionKit/ActionKit.git
+
+CHECKOUT OPTIONS:
+  ActionKit:
+    :commit: 764b4cc4e537ba63012c9ac8f65fd99e352d54c5
+    :git: https://github.com/ActionKit/ActionKit.git
+
+SPEC CHECKSUMS:
+  ActionKit: c564d337310f1273e975ef3762388c8d9295639d
+  RxCocoa: 0a2f3ae381cf16f4021a4cee7a4420f83058a965
+  RxSwift: a930cd662f5b4a7ca9dc3518585dba91dadf497c
+
+PODFILE CHECKSUM: 26b4fcab922846c4fff6c2ee483a0a5fbcfa83d0
+
+COCOAPODS: 1.1.0.rc.2
